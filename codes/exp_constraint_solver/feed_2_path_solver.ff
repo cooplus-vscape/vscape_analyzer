@@ -1,0 +1,15 @@
+mozilla::net::HttpBaseChannel::Release
+mozilla::dom::WebCryptoTask::DoCrypto
+nsDocument::Init
+mozilla::MediaDataDemuxer::NotifyDataArrived
+mozilla::AudioNodeEngine::ProcessBlock
+mozilla::AudioNodeEngine::SetInt32Parameter
+mozilla::OggCodecState::DecodeHeader
+mozilla::dom::XMLDocument::StartDocumentLoad
+SkBlitter::blitMask
+mozilla::gfx::FilterNode::SetAttribute
+nsFrame::Init
+nsSVGContainerFrame::GetCanvasTM
+mozilla::dom::Animation::UpdateTiming
+
+
